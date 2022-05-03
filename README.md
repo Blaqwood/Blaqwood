@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something**
 
-- 🌱 I’m currently learning **GTK** and **something**
+- 🌱 I’m currently learning **something**
 
 - ⚡ Fun fact **something**
 
