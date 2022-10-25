@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, Name's Jonathan</h1>
->
-
-- 🔭 I’m currently working on **something**
-
-- 🌱 I’m currently learning **something**
 
 - ⚡ I'm a wasteman who likes to code
 
